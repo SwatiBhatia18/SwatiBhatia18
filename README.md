@@ -1,10 +1,8 @@
 <h1 align="center">👋 Hi, I'm Swati Bhatia!</h1>
-<p align="center">
-  🚀 <h2>Passionate Frontend Developer</b> | 💻 <b>React.js | JavaScript | HTML | CSS | More</h2>
-</p>
+<h2 align="center">🚀 Passionate Frontend Developer | 💻 React.js | JavaScript | HTML | CSS | More</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*F4t8-xz-b98ZcvEH.gif" width="500" alt="Coding GIF">
 </p>
 
 ---
@@ -29,8 +27,12 @@ I love building **scalable, performant, and user-friendly** web applications. Wi
 ---
 
 ### 📫 Let's Connect  
-<a href="https://www.linkedin.com/in/swatibhatia18/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/SwatiBhatia18"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/swatibhatia18/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/SwatiBhatia18" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
