@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Swati Bhatia!</h1>
 <p align="center">
-  🚀 <b>Passionate Frontend Developer</b> | 💻 <b>React.js | JavaScript | HTML | CSS | More</b>
+  🚀 <h2>Passionate Frontend Developer</b> | 💻 <b>React.js | JavaScript | HTML | CSS | More</h2>
 </p>
 
 <p align="center">
