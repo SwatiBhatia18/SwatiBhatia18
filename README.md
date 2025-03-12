@@ -16,7 +16,7 @@ I love building **scalable, performant, and user-friendly** web applications. Wi
 
 ### 💻 Tech Stack  
 🔹 **Frontend:** React.js, Redux, Next.js, JavaScript, TypeScript  
-🔹 **UI Libraries:** Ant Design, Tailwind CSS, Styled Components  
+🔹 **UI Libraries:** Ant Design, Material Design, Tailwind CSS, Styled Components  
 🔹 **Others:** Web Performance, Accessibility, Data Visualization  
 
 ---
